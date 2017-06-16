@@ -4,7 +4,9 @@
   "description": "🐌 An extension to add nice vim-like hotkeys to Safari",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "watch": "webpack --watch --config webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/adrianovalente/vimium-extreme/issues"
   },
-  "homepage": "https://github.com/adrianovalente/vimium-extreme#readme"
+  "homepage": "https://github.com/adrianovalente/vimium-extreme#readme",
+  "devDependencies": {
+    "webpack": "^2.6.1",
+    "css-loader": "^0.28.0"
+  }
 }
