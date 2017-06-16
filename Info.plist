@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>Author</key>
+	<string>dricool</string>
 	<key>Builder Version</key>
 	<string>11601.4.4</string>
 	<key>CFBundleDisplayName</key>
@@ -14,7 +16,27 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>build/bundle.js</string>
+			</array>
+			<key>Start</key>
+			<array>
+				<string>build/bundle.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Vimium Extreme</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
+	<key>Website</key>
+	<string>http://ghub.com/adrianovalente/vimium-extreme</string>
 </dict>
 </plist>
