@@ -22,6 +22,7 @@ Here are some features to be implemented:
 
 - Navigating with `j`, `k`
 - Opening links with `f`
+- Tests
 
 ## Contributing
 

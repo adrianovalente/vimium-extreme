@@ -1,0 +1,25 @@
+{
+  "name": "vimium-extreme.safariextension",
+  "version": "0.0.1",
+  "description": "🐌 An extension to add nice vim-like hotkeys to Safari",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianovalente/vimium-extreme.git"
+  },
+  "keywords": [
+    "vim",
+    "safari",
+    "extension",
+    "javascript"
+  ],
+  "author": "dricool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianovalente/vimium-extreme/issues"
+  },
+  "homepage": "https://github.com/adrianovalente/vimium-extreme#readme"
+}
