@@ -36,6 +36,14 @@
 	<string>0000000000</string>
 	<key>ExtensionInfoDictionaryVersion</key>
 	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
 	<key>Website</key>
 	<string>http://ghub.com/adrianovalente/vimium-extreme</string>
 </dict>
